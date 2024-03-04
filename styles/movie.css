@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #10141E;
+}
+
+.container {
+    width: 100%;
+}
+
+.wrapper-left {
+ position: absolute;
+    width: 96px;
+    height: 900px;
+    background-color: rgba(22, 29, 47, 1)   ;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-attachment: fixed;
+}
+
+.icons {
+    text-align: center;
+    cursor: pointer;
+}
+
+.icon {
+  margin-top: 40px;
+    
+}
+
+
+
+.shape-icon {
+    margin-top: 70px;
+
+}
+
+.oval {
+    margin-top: 480px;
+}
+
+.search-input {
+    padding: 20px;
+    position: relative;
+}
+
+input {
+    padding: 20px;
+    border: none;
+    outline: none;
+    background-color: #10141E;
+    width: 400px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #fff;
+
+}
+
+
+
+.fa-solid {
+    margin-left: 150px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.video {
+    margin-left: 160px;
+    border-radius: 20px;
+}
+
+.year {
+    color: #fff;
+    margin-left: 200px;
+
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+     flex-wrap: wrap;
+     margin-left: 50px;
+}
+
+.movie-svg {
+    margin-left: 250px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.type {
+    margin-left: 300px;
+    color: #fff;
+    font-size: 20px;    
+}
+
+.name {
+    margin-left: 300px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.rating {
+    margin-left: 300px;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+
